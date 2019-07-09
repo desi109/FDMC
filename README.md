@@ -1,6 +1,3 @@
-echo "# FDMC" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/desi109/FDMC.git
-git push -u origin master
+## Fluffy Duffy Munchkin Cats (FDMC)
+Fluffy Duffy Munchkin Cats is an application in which you register cats, with several properties. It has many versions,
+and you will most probably see it several times.
